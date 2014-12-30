@@ -5,7 +5,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <points id="1">
-          <ModificationCount>30</ModificationCount>
+          <ModificationCount>32</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>7.5,0</p>
@@ -13,27 +13,27 @@
           </pts>
         </points>
         <points id="2">
-          <ModificationCount>30</ModificationCount>
+          <ModificationCount>32</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,128.5</p>
           </pts>
         </points>
         <points id="5">
-          <ModificationCount>30</ModificationCount>
+          <ModificationCount>32</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,125.5</p>
           </pts>
         </points>
-        <text id="14" p1="3.50299999999719,57.309,0" p2="-3.36400000000281,-10.7940000000002,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>725</ModificationCount>
+        <text id="14" p1="6.42700143808571,51.6780805743154,0" p2="0.933401438085705,-2.80431942568476,0" Height="6.3999999999999986" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>780</ModificationCount>
           <mat m="Identity" />graininess</text>
         <text id="7" p1="19.1699999999997,119.710000000002,0" p2="76.6199999999997,28.5100000000019,0" Height="8.09999999999999" Font="Arial" align="bottom,left">
-          <ModificationCount>379</ModificationCount>
+          <ModificationCount>381</ModificationCount>
           <mat m="Identity" />MFOS</text>
         <pline id="34">
-          <ModificationCount>10</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>60.7199999999956,0,0</p>
@@ -41,7 +41,7 @@
           </pts>
         </pline>
         <pline id="42" Closed="true">
-          <ModificationCount>11</ModificationCount>
+          <ModificationCount>13</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>60.7199999999956,0,0</p>
@@ -50,44 +50,130 @@
             <p>-2.36042874699263E-14,2.45900955847534E-15,0</p>
           </pts>
         </pline>
-        <text id="65" p1="9.50299999999721,98.529,0" p2="2.6359999999972,30.4259999999998,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>68</ModificationCount>
-          <mat m="Identity" />roaring</text>
-        <text id="3" p1="9.66299999999721,88.239,0" p2="2.79599999999721,20.1359999999998,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>78</ModificationCount>
-          <mat m="Identity" />white</text>
-        <text id="30" p1="10.4129999999972,29.009,0" p2="3.54599999999721,-39.0940000000002,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>69</ModificationCount>
+        <text id="65" p1="14.2842739554295,79.0753461869974,0" p2="8.79067395542946,24.5929461869973,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>126</ModificationCount>
+          <mat m="6.12303176911189E-17 1 0 0 -1 6.12303176911189E-17 0 0 0 0 1 0 90.4338293882067 58.8682310390807 0 1" />roaring</text>
+        <text id="3" p1="15.925151077414,70.8433461869974,0" p2="10.431551077414,16.3609461869973,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>158</ModificationCount>
+          <mat m="6.12303176911189E-17 1 0 0 -1 6.12303176911189E-17 0 0 0 0 1 0 101.575225069344 61.0745101753081 0 1" />white</text>
+        <text id="30" p1="8.42591827337247,23.4278279136227,0" p2="2.93231827337248,-31.0545720863774,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>146</ModificationCount>
           <mat m="Identity" />gates</text>
-        <text id="31" p1="10.8829999999972,15.939,0" p2="4.0159999999972,-52.1640000000002,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>65</ModificationCount>
+        <text id="31" p1="33.4473542393678,23.4043764006411,0" p2="27.9537542393678,-31.078023599359,0" Height="6.3999999999999986" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>161</ModificationCount>
           <mat m="Identity" />triggers</text>
         <text id="4" p1="10.8599999999997,110.790000000002,0" p2="68.3099999999997,19.5900000000019,0" Height="8.09999999999999" Font="Arial" align="bottom,left">
-          <ModificationCount>40</ModificationCount>
+          <ModificationCount>42</ModificationCount>
           <mat m="Identity" />Multi-Noise</text>
-        <text id="24" p1="9.82299999999721,76.539,0" p2="2.95599999999721,8.4359999999998,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>36</ModificationCount>
-          <mat m="Identity" />digital</text>
-        <text id="26" p1="10.4229999999972,42.7189999999998,0" p2="3.55599999999721,-25.3840000000004,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>38</ModificationCount>
+        <text id="24" p1="14.5402739554295,61.4833461869974,0" p2="9.04667395542947,7.00094618699726,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>89</ModificationCount>
+          <mat m="6.12303176911189E-17 1 0 0 -1 6.12303176911189E-17 0 0 0 0 1 0 112.339029383608 60.4441447078145 0 1" />digital</text>
+        <text id="26" p1="19.7804966882565,37.2324725173436,0" p2="14.2868966882565,-17.2499274826566,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>98</ModificationCount>
           <mat m="Identity" />grainy</text>
-        <points id="29">
-          <ModificationCount>4</ModificationCount>
+        <points id="8">
+          <ModificationCount>29</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>29.82,94.25</p>
-            <p>49.05,90.72</p>
-            <p>49.2,30.6900000000002</p>
-            <p>49.05,100.87</p>
-            <p>49.36,59.17</p>
+            <p>29.3080653588012,101.126379848373</p>
+          </pts>
+        </points>
+        <points id="10">
+          <ModificationCount>17</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>49.1900000000001,100.87</p>
+          </pts>
+        </points>
+        <points id="11">
+          <ModificationCount>52</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>43.686710792558,53.1815280588112</p>
+          </pts>
+        </points>
+        <points id="12">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
             <p>53.2199999999956,3</p>
+          </pts>
+        </points>
+        <points id="13">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
             <p>53.2199999999956,125.5</p>
-            <p>49.3100000000005,17.79</p>
-            <p>49.21,79.02</p>
-            <p>49.21,44.4</p>
-            <p>30.28,51.94</p>
+          </pts>
+        </points>
+        <points id="16">
+          <ModificationCount>100</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>29.1780653588011,67.6790532368469</p>
+          </pts>
+        </points>
+        <points id="17">
+          <ModificationCount>31</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>48.561803484228,39.0353813002577</p>
+          </pts>
+        </points>
+        <points id="19">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
             <p>7.50000000000001,125.5</p>
+          </pts>
+        </points>
+        <points id="20">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
             <p>7.5,3</p>
+          </pts>
+        </points>
+        <points id="21">
+          <ModificationCount>293</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>43.959245211773,14.6087194348824</p>
+          </pts>
+        </points>
+        <points id="22">
+          <ModificationCount>246</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>15.782799174563,15.0814935355026</p>
+          </pts>
+        </points>
+        <points id="23">
+          <ModificationCount>297</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>8.97600493151407,38.720198566511</p>
+          </pts>
+        </points>
+        <points id="29">
+          <ModificationCount>93</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>9.95191860024765,67.7170100712146</p>
+          </pts>
+        </points>
+        <points id="32">
+          <ModificationCount>112</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>49.5073516854683,67.874601438088</p>
+          </pts>
+        </points>
+        <points id="33">
+          <ModificationCount>114</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>10.109509967121,101.196745315867</p>
           </pts>
         </points>
       </objects>
@@ -115,7 +201,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Engrave1</Name>
@@ -152,7 +238,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>mounting</Name>
@@ -188,7 +274,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile1</Name>
