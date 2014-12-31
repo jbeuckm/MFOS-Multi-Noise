@@ -26,8 +26,8 @@
             <p>0,125.5</p>
           </pts>
         </points>
-        <text id="14" p1="2.80239999999775,45.8472,0" p2="-2.69120000000225,-8.63520000000016,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>729</ModificationCount>
+        <text id="14" p1="6.89977553870587,48.3334791362272,0" p2="1.40617553870587,-6.14892086377296,0" Height="6.3999999999999986" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>819</ModificationCount>
           <mat m="Identity" />graininess</text>
         <text id="7" p1="19.1699999999997,119.710000000002,0" p2="76.6199999999997,28.5100000000019,0" Height="8.09999999999999" Font="Arial" align="bottom,left">
           <ModificationCount>381</ModificationCount>
@@ -51,45 +51,31 @@
           </pts>
         </pline>
         <text id="65" p1="14.2842739554295,79.0753461869974,0" p2="8.79067395542946,24.5929461869973,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>95</ModificationCount>
-          <mat m="Identity" />roaring</text>
+          <ModificationCount>126</ModificationCount>
+          <mat m="6.12303176911189E-17 1 0 0 -1 6.12303176911189E-17 0 0 0 0 1 0 90.4338293882067 58.8682310390807 0 1" />roaring</text>
         <text id="3" p1="15.925151077414,70.8433461869974,0" p2="10.431551077414,16.3609461869973,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>113</ModificationCount>
-          <mat m="Identity" />white</text>
-        <text id="30" p1="15.8327125164218,23.5854192804961,0" p2="10.3391125164218,-30.896980719504,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>158</ModificationCount>
+          <mat m="6.12303176911189E-17 1 0 0 -1 6.12303176911189E-17 0 0 0 0 1 0 101.575225069344 61.0745101753081 0 1" />white</text>
+        <text id="30" p1="8.58350964024586,7.72109985941024,0" p2="3.08990964024587,-46.7613001405899,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>178</ModificationCount>
           <mat m="Identity" />gates</text>
-        <text id="31" p1="13.6232506464475,13.0033461869974,0" p2="8.1296506464475,-41.4790538130027,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>89</ModificationCount>
+        <text id="31" p1="33.6049456062412,7.69764834642861,0" p2="28.1113456062412,-46.7847516535715,0" Height="6.3999999999999986" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>193</ModificationCount>
           <mat m="Identity" />triggers</text>
         <text id="4" p1="10.8599999999997,110.790000000002,0" p2="68.3099999999997,19.5900000000019,0" Height="8.09999999999999" Font="Arial" align="bottom,left">
           <ModificationCount>42</ModificationCount>
           <mat m="Identity" />Multi-Noise</text>
         <text id="24" p1="14.5402739554295,61.4833461869974,0" p2="9.04667395542947,7.00094618699726,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>63</ModificationCount>
-          <mat m="Identity" />digital</text>
-        <text id="26" p1="15.8407125164218,34.553419280496,0" p2="10.3471125164218,-19.9289807195042,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>82</ModificationCount>
+          <ModificationCount>89</ModificationCount>
+          <mat m="6.12303176911189E-17 1 0 0 -1 6.12303176911189E-17 0 0 0 0 1 0 112.339029383608 60.4441447078145 0 1" />digital</text>
+        <text id="26" p1="20.1632707888766,33.227871079256,0" p2="14.6696707888766,-21.2545289207442,0" Height="6.4" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>158</ModificationCount>
           <mat m="Identity" />grainy</text>
-        <points id="8">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>49.05,90.72</p>
-          </pts>
-        </points>
-        <points id="10">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>49.05,100.87</p>
-          </pts>
-        </points>
         <points id="11">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>91</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>49.36,59.17</p>
+            <p>44.1594848931781,49.836926620723</p>
           </pts>
         </points>
         <points id="12">
@@ -106,20 +92,6 @@
             <p>53.2199999999956,125.5</p>
           </pts>
         </points>
-        <points id="16">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>49.21,79.02</p>
-          </pts>
-        </points>
-        <points id="17">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>49.21,44.4</p>
-          </pts>
-        </points>
         <points id="19">
           <ModificationCount>1</ModificationCount>
           <mat m="Identity" />
@@ -134,46 +106,38 @@
             <p>7.5,3</p>
           </pts>
         </points>
-        <points id="21">
-          <ModificationCount>234</ModificationCount>
+        <points id="35">
+          <ModificationCount>2</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>50.9256739873288,18.075729506097</p>
+            <p>29.3080653588012,101.2</p>
+            <p>49.1900000000001,101.2</p>
+            <p>10.109509967121,101.2</p>
           </pts>
         </points>
-        <points id="22">
-          <ModificationCount>212</ModificationCount>
+        <points id="36">
+          <ModificationCount>1</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>8.23914449962685,18.2333208729704</p>
+            <p>29.4380653588013,67.7</p>
+            <p>9.95191860024765,67.7</p>
+            <p>49.5073516854683,67.7</p>
           </pts>
         </points>
-        <points id="23">
-          <ModificationCount>212</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>8.13914449962635,44.8433208729704</p>
-          </pts>
-        </points>
-        <points id="29">
+        <points id="37">
           <ModificationCount>61</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>8.50118766526044,90.567758267856</p>
+            <p>48.9445775848481,34.9953985619124</p>
+            <p>9.35877903213419,34.9953985619124</p>
           </pts>
         </points>
-        <points id="32">
-          <ModificationCount>65</ModificationCount>
+        <points id="38">
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>8.49600493151382,79.5363625867188</p>
-          </pts>
-        </points>
-        <points id="33">
-          <ModificationCount>35</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>8.38600493151376,101.125930930388</p>
+            <p>44.5896106792666,18.2333208729704</p>
+            <p>16.4131646420566,18.2333208729704</p>
           </pts>
         </points>
       </objects>
